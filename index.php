@@ -5,12 +5,12 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="wp-content\themes\cantodelmedio\css\style.css">
+    <link rel="stylesheet" href="css\style.css">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Alegreya:wght@400;600;700&family=Cabin:wght@400;700&family=Quicksand:wght@300;400;600;700&display=swap" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=Cabin:wght@400;700&family=Quicksand:wght@300;400;600;700&display=swap" rel="stylesheet">
-    <script src="wp-content\themes\cantodelmedio\js\main.js"></script>
+    <script src="js\main.js"></script>
     <title>El canto del medio</title>
 </head>
 
@@ -18,14 +18,14 @@
 
     <header>
         <ul id="menuRedesHeader">
-            <li class="iconRedesHeader"><a href="https://www.instagram.com/elcantodelmedio/" target="_blank"><img src="wp-content\themes\cantodelmedio\img\mobile\logo-final-ig.png" class="imgRedesHeader" id="logoInstagramHeader"></a></li>
-            <li class="iconRedesHeader"><a href="https://www.youtube.com/channel/UCLtgVMuTefGp63pZiPophPA" target="_blank"><img src="wp-content\themes\cantodelmedio\img\mobile\logo-final-yt.png" class="imgRedesHeader" id="logoYoutubeHeader"></a></li>
-            <li class="iconRedesHeader"><a href="https://wa.me/5491136148307" target="_blank"><img src="wp-content\themes\cantodelmedio\img\mobile\logo-final-wa.png" class="imgRedesHeader" id="logoWhatsAppHeader"></a></li>
+            <li class="iconRedesHeader"><a href="https://www.instagram.com/elcantodelmedio/" target="_blank"><img src="img\mobile\logo-final-ig.png" class="imgRedesHeader" id="logoInstagramHeader"></a></li>
+            <li class="iconRedesHeader"><a href="https://www.youtube.com/channel/UCLtgVMuTefGp63pZiPophPA" target="_blank"><img src="img\mobile\logo-final-yt.png" class="imgRedesHeader" id="logoYoutubeHeader"></a></li>
+            <li class="iconRedesHeader"><a href="https://wa.me/5491136148307" target="_blank"><img src="img\mobile\logo-final-wa.png" class="imgRedesHeader" id="logoWhatsAppHeader"></a></li>
         </ul>
 
         <button id="burger-menu-toggler">
-            <img src="wp-content\themes\cantodelmedio\img\mobile\burger-menu.png" id="open-mobile-menu"></img>
-            <img src="wp-content\themes\cantodelmedio\img\mobile\close-burger-menu.png" id="close-mobile-menu"></img>
+            <img src="img\mobile\burger-menu.png" id="open-mobile-menu"></img>
+            <img src="img\mobile\close-burger-menu.png" id="close-mobile-menu"></img>
         </button>
 
         <ul id="mainMenu">
@@ -40,13 +40,13 @@
 
         <section id="presentacionSitio">
 
-            <img src="wp-content\themes\cantodelmedio\img\mobile\logo-color-2.png" id="logoCuerpoOrig">
+            <img src="img\mobile\logo-color-2.png" id="logoCuerpoOrig">
 
             <article>
 
                 <h1 class="elementoSeccion1">El canto del medio</h1>
 
-                <img src="wp-content\themes\cantodelmedio\img\mobile\TIPITO.png" id="tipito" class="elementoSeccion1">
+                <img src="img\mobile\TIPITO.png" id="tipito" class="elementoSeccion1">
 
                 <h2 class="elementoSeccion1"><span id="escuelaCantoTitulo">Escuela de Canto Consciente y Visionario</span>
                     <br>de <a href="#bio" id="paulaNaanim">Paula Naanim Telis</a>
@@ -85,31 +85,31 @@
         <section id="formacionIntegral">
 
             <figure class="imgFondo">
-                <img src="wp-content\themes\cantodelmedio\img\mobile\fondo-verde-nvo.svg" alt="" srcset="">
+                <img src="img\mobile\fondo-verde-nvo.svg" alt="" srcset="">
             </figure>
 
             <h2>Formación integral</h2>
 
-            <img class="trazoDecorativo" src="wp-content\themes\cantodelmedio\img\mobile\trazo-1.svg" alt="" srcset="">
+            <img class="trazoDecorativo" src="img\mobile\trazo-1.svg" alt="" srcset="">
 
             <article>
                 <p>El programa de Formación está diseñado para que realices un recorrido de aprendizaje que te permita adquirir los conocimientos teóricos y las habilidades prácticas esenciales para que el contacto con tu Voz sea saludable, orgánico, expresivo, creativo y musicalmente eficiente. Nuestro enfoque se caracteriza por estudiar a la Voz de una forma integral, es decir, contemplando la intrínseca relación de la creación de sonido humano con los atravesamientos emocionales alojados en las memorias del cuerpo, con las creencias personales y colectivas que condicionan o potencian nuestra expresión y también, con el desarrollo y la construcción de la identidad personal en relación a un contexto, cultura o subcultura.</p>
                 <p>La Formación en Canto Consciente está dirigida a quienes deseen aplicar estos conocimientos en entornos artísticos y creativos. La Formación en Canto Visionario, a quienes quieran aplicarlos en entornos terapéuticos y de sanación.</p>
                 <p>Ambos enfoques se completan con 2 niveles de estudio. Una vez realizados, contás con la posibilidad de anotarte en las reuniones de Supervisión, en donde resolveremos dudas y compartiremos hallazgos o reflexiones surgidas de las experiencias prácticas de los estudiantes.</p>
 
-                <img src="wp-content\themes\cantodelmedio\img\mobile\TIPITO.png" id="separadorFormacion" class="elementoSeccion1">
+                <img src="img\mobile\TIPITO.png" id="separadorFormacion" class="elementoSeccion1">
 
                 <p class="importantP">Los próximos cursos comienzan en agosto 2023</p>
             </article>
 
-            <img class="trazoDecDos" src="wp-content\themes\cantodelmedio\img\mobile\trazo-2.svg" alt="" srcset="">
+            <img class="trazoDecDos" src="img\mobile\trazo-2.svg" alt="" srcset="">
 
             <button class="accordion">Nivel 1<br>Iniciación al Canto Consciente</button>
             <article class="panel">
                 <p>El Nivel 1 de la Formación Integral en Canto Consciente es un curso teórico - práctico orientado al estudio de las bases funcionales esenciales de la emisión neurofisiológica. Estas bases son las que sustentan el desarrollo de un canto orgánico, saludable, expresivo y musicalmente eficiente.</p>
 
                 <article id="coordenadasIniciacionConsciente">
-                    <img src="wp-content\themes\cantodelmedio\img\mobile\trazo-circ-3.svg" alt="" srcset="">
+                    <img src="img\mobile\trazo-circ-3.svg" alt="" srcset="">
                     <div>
                         <p>Modalidad : presencial y grupal</p>
                         <p>Duración : 4 meses (Agosto - Noviembre 2023)</p>
@@ -147,7 +147,7 @@
                         <p>El Nivel 2 de la Formación Integral en Canto Consciente es un curso teórico - práctico orientado al fortalecimiento de las bases funcionales de la emisión neurofisiológica estudiadas en el nivel 1. También, se propone acompañar la creación de hábitos de entrenamiento que potencien la integración y aplicación de lo aprendido en la vida artística y creativa. </p>
 
                         <article id="coordenadasProfundizacionConsciente">
-                            <img src="wp-content\themes\cantodelmedio\img\mobile\trazo-circ-4.svg" alt="" srcset="">
+                            <img src="img\mobile\trazo-circ-4.svg" alt="" srcset="">
                             <div>
                                 <p>Modalidad : presencial y grupal</p>
                                 <p>Duración : 4 meses (Agosto - Noviembre 2023)</p>
@@ -185,7 +185,7 @@
                         <p>El Nivel 2 de la Formación Integral en Canto Visionario es un curso teórico-práctico orientado al estudio de la voz como medio de canalización akáshica o cuántica. Se propone entrenar estados de presencia expandida por medio de la escucha holística para favorecer su aplicación en ámbitos terapéuticos y de sanación.</p>
 
                         <article id="coordenadasProfundizacionVisionario">
-                            <img src="wp-content\themes\cantodelmedio\img\mobile\trazo-circ-5.svg" alt="" srcset="">
+                            <img src="img\mobile\trazo-circ-5.svg" alt="" srcset="">
                             <div>
                                 <p>Modalidad : presencial y grupal</p>
                                 <p>Duración : 4 meses (Agosto - Noviembre 2023)</p>
@@ -218,14 +218,14 @@
 
             <article class="links-detalles-formacion">
                 <div class="container-link-pc">
-                    <img class="flecha-izq-formacion" src="wp-content\themes\cantodelmedio\img\mobile\flecha-doble-izq.svg">
+                    <img class="flecha-izq-formacion" src="img\mobile\flecha-doble-izq.svg">
                     <p class="textoNegrita"><a href="..\programa-curso" target="_blank">Conocé el programa completo y los contenidos de los cursos</a></p>
-                    <img class="flecha-der-formacion" src="wp-content\themes\cantodelmedio\img\mobile\flecha-doble-der.svg">
+                    <img class="flecha-der-formacion" src="img\mobile\flecha-doble-der.svg">
                 </div>
 
                 <div class="container-consultas-formacion">
                     <p class="textoNegrita"><a href="https://wa.me/5491136148307" target="_blank">Consultas y reserva de cupos</a></p>
-                    <img class="trazo-subrayado-contacto-form" src="wp-content\themes\cantodelmedio\img\mobile\trazo-sub-cont.svg">
+                    <img class="trazo-subrayado-contacto-form" src="img\mobile\trazo-sub-cont.svg">
                 </div>
             </article>
 
@@ -233,14 +233,14 @@
 
         <section id="consultoriaVoz">
             <figure class="imgFondo">
-                <img src="wp-content\themes\cantodelmedio\img\mobile\fondo-negro.svg" alt="" srcset="">
+                <img src="img\mobile\fondo-negro.svg" alt="" srcset="">
             </figure>
 
             <h2>Consultorías para la voz</h2>
 
-            <img class="trazoDecDosCinco" src="wp-content\themes\cantodelmedio\img\mobile\trazo-9.svg" alt="" srcset="">
+            <img class="trazoDecDosCinco" src="img\mobile\trazo-9.svg" alt="" srcset="">
 
-            <img class="trazoDecTres" src="wp-content\themes\cantodelmedio\img\mobile\trazo-4.svg" alt="" srcset="">
+            <img class="trazoDecTres" src="img\mobile\trazo-4.svg" alt="" srcset="">
 
             <p>El servicio de Consultoría para la Voz es un espacio individual creado para acompañar la expresión de emociones y recuerdos que podrían estar bloqueando a tu garganta, inhibiendo la expresión espontánea o condicionando el contacto sensible con la Voz propia. También ofrecemos la posibilidad de decodificar y recodificar creencias condicionantes que pudieran estar afectando tu relación con el despliegue de la Voz, tanto en contextos de desarrollo artístico profesional como en la comunicación e interacción con otras áreas de la vida cotidiana.</p>
 
@@ -250,12 +250,12 @@
             </article>
 
             <article class="links-detalles-consultoria">
-                <img src="wp-content\themes\cantodelmedio\img\mobile\trazo-circ-1.svg" alt="" srcset="">
+                <img src="img\mobile\trazo-circ-1.svg" alt="" srcset="">
                 <div>
                     <p class="textoNegrita"><a href="https://wa.me/5491136148307" target="_blank">
                             Si querés solicitar tu consulta hacé click acá
                         </a></p>
-                    <img class="trazo-subrayado-contacto-cons" src="wp-content\themes\cantodelmedio\img\mobile\trazo-sub-cont.svg">
+                    <img class="trazo-subrayado-contacto-cons" src="img\mobile\trazo-sub-cont.svg">
                 </div>
             </article>
 
@@ -263,16 +263,16 @@
 
         <section id="asesoriaVoz">
             <figure class="imgFondo">
-                <img src="wp-content\themes\cantodelmedio\img\mobile\fondo-amarillo.svg" alt="" srcset="">
+                <img src="img\mobile\fondo-amarillo.svg" alt="" srcset="">
             </figure>
 
-            <img class="trazoDecCinco" src="wp-content\themes\cantodelmedio\img\mobile\trazo-6.svg" alt="" srcset="">
+            <img class="trazoDecCinco" src="img\mobile\trazo-6.svg" alt="" srcset="">
 
             <h2>Asesorías para cantantes y artistas de la voz</h2>
 
             <p>El servicio de Asesoría es un espacio de acompañamiento individual creado para informar y orientar a cantantes y artistas de la Voz en la elección de técnicas, estrategias y procedimientos que sean coherentes con los objetivos de su formación y también con la creación de su identidad y recorrido profesional. También ofrecemos la posibilidad de decodificar y recodificar creencias condicionantes que pudieran estar afectando el crecimiento o desarrollo artístico.</p>
 
-            <img class="trazoDecSeis" src="wp-content\themes\cantodelmedio\img\mobile\trazo-7.svg" alt="" srcset="">
+            <img class="trazoDecSeis" src="img\mobile\trazo-7.svg" alt="" srcset="">
 
             <article id="coordenadasAsesoria">
                 <p>Modalidad : presencial y/u online</p>
@@ -280,10 +280,10 @@
             </article>
 
             <article class="links-detalles-asesoria">
-                <img src="wp-content\themes\cantodelmedio\img\mobile\trazo-circ-2.svg" alt="" srcset="">
+                <img src="img\mobile\trazo-circ-2.svg" alt="" srcset="">
                 <div>
                     <p class="textoNegrita"><a href="https://wa.me/5491136148307" target="_blank">Si querés solicitar tu asesoramiento hacé click acá</a></p>
-                    <img class="trazo-subrayado-contacto-ases" src="wp-content\themes\cantodelmedio\img\mobile\trazo-sub-cont.svg">
+                    <img class="trazo-subrayado-contacto-ases" src="img\mobile\trazo-sub-cont.svg">
                 </div>
             </article>
 
@@ -296,8 +296,8 @@
                     <strong id="nombrePaula">Soy Paula Naanim Telis</strong>
                 </h2>
                 <figure>
-                    <img src="wp-content\themes\cantodelmedio\img\mobile\trazo-circ-foto.svg" id="trazoImagenBio">
-                    <img src="wp-content\themes\cantodelmedio\img\mobile\imagenBioRecortada.png" id="imagenBio">
+                    <img src="img\mobile\trazo-circ-foto.svg" id="trazoImagenBio">
+                    <img src="img\mobile\imagenBioRecortada.png" id="imagenBio">
                 </figure>
             </article>
             <br>
@@ -309,25 +309,25 @@
 
             <article>
                 <div class="container-link-pc">
-                    <img class="flecha-izq-bio" src="wp-content\themes\cantodelmedio\img\mobile\flecha-doble-izq.svg">
+                    <img class="flecha-izq-bio" src="img\mobile\flecha-doble-izq.svg">
                     <p class="textoNegrita"><a href="..\trayectoria-estudios" target="_blank">Ver trayectoria y estudios</a></p>
-                    <img class="flecha-der-bio" src="wp-content\themes\cantodelmedio\img\mobile\flecha-doble-der.svg">
+                    <img class="flecha-der-bio" src="img\mobile\flecha-doble-der.svg">
                 </div>
             </article>
 
             <article id="galeriaFotosBio">
-                <img src="wp-content\themes\cantodelmedio\img\mobile\trazo-scotch-uno.svg" class="trazo-scotch-uno">
-                <img src="wp-content\themes\cantodelmedio\img\mobile\fotoBio01-c.jpeg" class="fotoGaleriaBio">
-                <img src="wp-content\themes\cantodelmedio\img\mobile\foto-bio-02b.jpeg" class="fotoGaleriaBio">
-                <img src="wp-content\themes\cantodelmedio\img\mobile\foto-bio-03.jpeg" class="fotoGaleriaBio">
-                <img src="wp-content\themes\cantodelmedio\img\mobile\trazo-scotch-dos.svg" class="trazo-scotch-dos">
+                <img src="img\mobile\trazo-scotch-uno.svg" class="trazo-scotch-uno">
+                <img src="img\mobile\fotoBio01-c.jpeg" class="fotoGaleriaBio">
+                <img src="img\mobile\foto-bio-02b.jpeg" class="fotoGaleriaBio">
+                <img src="img\mobile\foto-bio-03.jpeg" class="fotoGaleriaBio">
+                <img src="img\mobile\trazo-scotch-dos.svg" class="trazo-scotch-dos">
             </article>
 
         </section>
 
         <section id="cierre">
             <figure class="imgFondo">
-                <img src="wp-content\themes\cantodelmedio\img\mobile\fondo-verde-final.svg" alt="" srcset="">
+                <img src="img\mobile\fondo-verde-final.svg" alt="" srcset="">
             </figure>
             <article>
                 <p>Gracias por tu interés en los servicios de<br>
@@ -337,15 +337,15 @@
             </article>
 
             <article id="galeriaFotosServicios">
-                <img src="wp-content\themes\cantodelmedio\img\mobile\trazo-scotch-uno.svg" class="trazo-scotch-tres">
-                <img src="wp-content\themes\cantodelmedio\img\mobile\foto-final-01.jpeg" class="fotoGaleriaServicios">
-                <img src="wp-content\themes\cantodelmedio\img\mobile\foto-final-02.jpeg" class="fotoGaleriaServicios">
-                <img src="wp-content\themes\cantodelmedio\img\mobile\foto-final-03.jpeg" class="fotoGaleriaServicios">
-                <img src="wp-content\themes\cantodelmedio\img\mobile\foto-final-04.jpeg" class="fotoGaleriaServicios">
-                <img src="wp-content\themes\cantodelmedio\img\mobile\foto-final-05.jpeg" class="fotoGaleriaServicios">
-                <img src="wp-content\themes\cantodelmedio\img\mobile\trazo-scotch-dos.svg" class="trazo-scotch-cuatro">
+                <img src="img\mobile\trazo-scotch-uno.svg" class="trazo-scotch-tres">
+                <img src="img\mobile\foto-final-01.jpeg" class="fotoGaleriaServicios">
+                <img src="img\mobile\foto-final-02.jpeg" class="fotoGaleriaServicios">
+                <img src="img\mobile\foto-final-03.jpeg" class="fotoGaleriaServicios">
+                <img src="img\mobile\foto-final-04.jpeg" class="fotoGaleriaServicios">
+                <img src="img\mobile\foto-final-05.jpeg" class="fotoGaleriaServicios">
+                <img src="img\mobile\trazo-scotch-dos.svg" class="trazo-scotch-cuatro">
             </article>
-            <img src="wp-content\themes\cantodelmedio\img\mobile\TIPITO.png" id="tipito" class="elementoSeccion1">
+            <img src="img\mobile\TIPITO.png" id="tipito" class="elementoSeccion1">
 
             <article>
                 <p><strong>Paula Naanim Telis</strong></p>

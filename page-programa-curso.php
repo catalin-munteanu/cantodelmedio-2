@@ -10,7 +10,7 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Alegreya:wght@400;600;700&family=Cabin:wght@400;700&family=Quicksand:wght@300;400;600;700&display=swap" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=Cabin:wght@400;700&family=Quicksand:wght@300;400;600;700&display=swap" rel="stylesheet">
-    <script src="..\wp-content\themes\cantodelmedio\js\main.js"></script>
+    <script src="..\js\main.js"></script>
     <title>El canto del medio | Formación integral en Canto Consciente y Visionario | Programa completo</title>
 </head>
 
@@ -24,10 +24,10 @@
             <h1 id="progCompleto">Formación integral en Canto Consciente y Visionario</h1>
             <h4 id="progCompletoSubtitulo">Programa completo</h4>
             <article id="containerTablaProg">
-                <img src="..\wp-content\themes\cantodelmedio\img\mobile\cuadro-programa-completo.png" class="tabla-prog-330">
-                <img src="..\wp-content\themes\cantodelmedio\img\mobile\cuadro-programa-completo-768.png" class="tabla-prog-768">
+                <img src="..\img\mobile\cuadro-programa-completo.png" class="tabla-prog-330">
+                <img src="..\img\mobile\cuadro-programa-completo-768.png" class="tabla-prog-768">
                 <!--<figure class="imgFondo">
-                <img src="..\wp-content\themes\cantodelmedio\img\mobile\fondo-negro.svg" alt="" srcset="">
+                <img src="..\img\mobile\fondo-negro.svg" alt="" srcset="">
             </figure>
             <table id="tablaProgCompleto">
                 <tr>
@@ -41,27 +41,27 @@
                     <td></td>
                     <td></td>
                     <td class="celdaConCirculo">
-                    <img class="circuloEnCelda" src="..\wp-content\themes\cantodelmedio\img\mobile\trazo-circ-4.svg" alt="" srcset="">    
+                    <img class="circuloEnCelda" src="..\img\mobile\trazo-circ-4.svg" alt="" srcset="">    
                     <div class="textoEnCeldaConCirculo">Profundización en<br>canto consciente<br>(cuatrimestre)</div></td>
                     <td></td>
                     <td></td>
                 </tr>
                 <tr>
                     <td></td>
-                    <td><img class="trazosFlecha" src="..\wp-content\themes\cantodelmedio\img\mobile\flecha-1.svg"></td>
+                    <td><img class="trazosFlecha" src="..\img\mobile\flecha-1.svg"></td>
                     <td></td>
-                    <td><img class="trazosFlecha" src="..\wp-content\themes\cantodelmedio\img\mobile\flecha-2.svg"></td>
+                    <td><img class="trazosFlecha" src="..\img\mobile\flecha-2.svg"></td>
                     <td></td>
                 </tr>
                 <tr>
                     <td class="celdaConCirculo">
-                    <img class="circuloEnCelda" src="..\wp-content\themes\cantodelmedio\img\mobile\trazo-circ-3.svg" alt="" srcset="">
+                    <img class="circuloEnCelda" src="..\img\mobile\trazo-circ-3.svg" alt="" srcset="">
                     <div class="textoEnCeldaConCirculo">Iniciación al<br>canto consciente<br>(cuatrimestre)</div></td>
-                    <td><img class="trazosFlecha" src="..\wp-content\themes\cantodelmedio\img\mobile\flecha-derecha.svg"></td>
+                    <td><img class="trazosFlecha" src="..\img\mobile\flecha-derecha.svg"></td>
                     <td class="celdaConCirculo">
-                    <img class="circuloEnCelda" src="..\wp-content\themes\cantodelmedio\img\mobile\trazo-circ-5.svg" alt="" srcset="">
+                    <img class="circuloEnCelda" src="..\img\mobile\trazo-circ-5.svg" alt="" srcset="">
                     <div class="textoEnCeldaConCirculo">Profundización en<br>canto visionario<br>(cuatrimestre)</div></td>
-                    <td><img class="trazosFlecha" src="..\wp-content\themes\cantodelmedio\img\mobile\flecha-derecha.svg"></td>
+                    <td><img class="trazosFlecha" src="..\img\mobile\flecha-derecha.svg"></td>
                     <td class="celdaConCirculo">
                     <div class="textoEnCeldaConCirculo">Supervisiones</div></td>
                 </tr>
@@ -78,7 +78,7 @@
         <section id="containerTodasDescripciones">
         
             <figure class="imgFondo">
-                <img src="..\wp-content\themes\cantodelmedio\img\mobile\fondo-amarillo-programa.svg" alt="" srcset="">
+                <img src="..\img\mobile\fondo-amarillo-programa.svg" alt="" srcset="">
             </figure>
             
         <div id="sectConscienteNivelUno">
@@ -105,7 +105,7 @@
             </article>
         </div>
 
-        <img src="..\wp-content\themes\cantodelmedio\img\mobile\tipito-black.png" class="elementoSeccionUno" id="separadorPrograma">
+        <img src="..\img\mobile\tipito-black.png" class="elementoSeccionUno" id="separadorPrograma">
 
         <div id="sectConscienteNivelDos">
 
@@ -129,7 +129,7 @@
             </article>
         </div>
 
-        <img src="..\wp-content\themes\cantodelmedio\img\mobile\tipito-black.png" class="elementoSeccion1" id="separadorProgramaDos">
+        <img src="..\img\mobile\tipito-black.png" class="elementoSeccion1" id="separadorProgramaDos">
 
         <div id="descripcionVisionarioNivelDos">
             <article id="contenidosVisionarioNivelDos">
@@ -144,7 +144,7 @@
             </article>
         </div>
 
-        <img src="..\wp-content\themes\cantodelmedio\img\mobile\tipito-black.png" class="elementoSeccion1" id="separadorProgramaTres">
+        <img src="..\img\mobile\tipito-black.png" class="elementoSeccion1" id="separadorProgramaTres">
 
         <div id="descripcionSupervisiones">
             <h2>Supervisiones</h2>

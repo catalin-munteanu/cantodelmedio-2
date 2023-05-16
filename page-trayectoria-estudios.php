@@ -10,7 +10,7 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Alegreya:wght@400;600;700&family=Cabin:wght@400;700&family=Quicksand:wght@300;400;600;700&display=swap" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=Cabin:wght@400;700&family=Quicksand:wght@300;400;600;700&display=swap" rel="stylesheet">
-    <script src="..\wp-content\themes\cantodelmedio\js\main.js"></script>
+    <script src="..\js\main.js"></script>
     <title>El canto del medio | Paula Naanim Telis | Trayectoria y estudios</title>
 </head>
 
@@ -28,8 +28,8 @@
                     <p><a href="https://linktr.ee/paulanaanimtelis" target="_blank">Ver Linktree</a></p>
                 </div>
                 <figure>
-                    <img src="..\wp-content\themes\cantodelmedio\img\mobile\trazo-circ-foto.svg" id="trayectoria-trazoImagenBio">
-                    <img src="..\wp-content\themes\cantodelmedio\img\mobile\imagenBioRecortada.png" id="trayectoria-imagenBio">
+                    <img src="..\img\mobile\trazo-circ-foto.svg" id="trayectoria-trazoImagenBio">
+                    <img src="..\img\mobile\imagenBioRecortada.png" id="trayectoria-imagenBio">
                 </figure>
             </article>
             <br>
@@ -42,7 +42,7 @@
         <section id="container-trayectoria-estudios">
 
             <figure class="imgFondo">
-                <img src="..\wp-content\themes\cantodelmedio\img\mobile\fondo-bio-completa.svg">
+                <img src="..\img\mobile\fondo-bio-completa.svg">
             </figure>
 
             <h3>Trayectoria</h3>
@@ -98,7 +98,7 @@
 
             </article>
 
-            <img src="..\wp-content\themes\cantodelmedio\img\mobile\TIPITO.png" class="elementoSeccionUno" id="separadorBio">
+            <img src="..\img\mobile\TIPITO.png" class="elementoSeccionUno" id="separadorBio">
 
             <h3>Estudios</h3>
 
@@ -151,11 +151,11 @@
             </article>
 
             <article id="galeriaFotosBio">
-                <img src="..\wp-content\themes\cantodelmedio\img\mobile\trazo-scotch-uno.svg" class="trazo-scotch-uno">
-                <img src="..\wp-content\themes\cantodelmedio\img\mobile\fotoBio01-c.jpeg" class="fotoGaleriaBio">
-                <img src="..\wp-content\themes\cantodelmedio\img\mobile\foto-bio-02b.jpeg" class="fotoGaleriaBio">
-                <img src="..\wp-content\themes\cantodelmedio\img\mobile\foto-bio-03.jpeg" class="fotoGaleriaBio">
-                <img src="..\wp-content\themes\cantodelmedio\img\mobile\trazo-scotch-dos.svg" class="trazo-scotch-dos">
+                <img src="..\img\mobile\trazo-scotch-uno.svg" class="trazo-scotch-uno">
+                <img src="..\img\mobile\fotoBio01-c.jpeg" class="fotoGaleriaBio">
+                <img src="..\img\mobile\foto-bio-02b.jpeg" class="fotoGaleriaBio">
+                <img src="..\img\mobile\foto-bio-03.jpeg" class="fotoGaleriaBio">
+                <img src="..\img\mobile\trazo-scotch-dos.svg" class="trazo-scotch-dos">
             </article>
 
             </div>
