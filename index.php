@@ -250,7 +250,7 @@
             </article>
 
             <article class="links-detalles-consultoria">
-                <img src="img\mobile\trazo-circ-1.svg" alt="" srcset="">
+                <img src="img\mobile\trazo-circ-1.svg" alt="" srcset="" id="trazo-circular-consultoria">
                 <div>
                     <p class="textoNegrita"><a href="https://wa.me/5491136148307" target="_blank">
                             Si querés solicitar tu consulta hacé click acá
@@ -266,7 +266,7 @@
                 <img src="img\mobile\fondo-amarillo.svg" alt="" srcset="">
             </figure>
 
-            <img class="trazoDecCinco" src="img\mobile\trazo-6.svg" alt="" srcset="">
+            <img class="trazoDecCinco" src="img\mobile\trazo-6.svg" alt="" srcset="" id="trazo-circular-asesoria">
 
             <h2>Asesorías para cantantes y artistas de la voz</h2>
 

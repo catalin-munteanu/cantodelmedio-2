@@ -469,13 +469,13 @@ section#consultoriaVoz {
     z-index: 1;
 }
 
-#links-detalles-consultoria {
+.links-detalles-consultoria {
     z-index: 1;
     position: relative;
     margin: 2em;
 }
 
-#links-detalles-consultoria img {
+#trazo-circular-consultoria {
     position: absolute;
     height: 100%;
     width: 100%;
@@ -483,12 +483,12 @@ section#consultoriaVoz {
     left: 0;
 }
 
-#links-detalles-consultoria div {
+.links-detalles-consultoria div {
     margin: 20%;
     margin-top: 22%;
 }
 
-#links-detalles-consultoria p {
+.links-detalles-consultoria p {
     position: relative;
     z-index: 2;
 }
@@ -1234,8 +1234,8 @@ th {
         font-size: 50px;
     }
 
-    #links-detalles-consultoria div,
-    #links-detalles-asesoria div,
+    .links-detalles-consultoria div,
+    .links-detalles-asesoria div,
     #coordenadasIniciacionConsciente div,
     #coordenadasProfundizacionConsciente div,
     #coordenadasProfundizacionVisionario div {
